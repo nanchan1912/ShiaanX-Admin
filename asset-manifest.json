@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShiaanX-Admin/static/css/main.1b411a18.css",
+    "main.js": "/ShiaanX-Admin/static/js/main.48458eeb.js",
+    "index.html": "/ShiaanX-Admin/index.html",
+    "main.1b411a18.css.map": "/ShiaanX-Admin/static/css/main.1b411a18.css.map",
+    "main.48458eeb.js.map": "/ShiaanX-Admin/static/js/main.48458eeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b411a18.css",
+    "static/js/main.48458eeb.js"
+  ]
+}
